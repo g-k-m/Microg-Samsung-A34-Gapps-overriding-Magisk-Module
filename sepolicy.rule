@@ -1,3 +1,0 @@
-allow priv_app privapp_data_file dir { create setattr getattr open read write search add_name remove_name }
-allow priv_app app_data_file dir { create setattr getattr open read write search add_name remove_name }
-allow system_app system_app_data_file dir { create setattr getattr open read write search add_name remove_name }
